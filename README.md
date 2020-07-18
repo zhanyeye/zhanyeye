@@ -2,7 +2,7 @@
 + 📓 I'm currently studying at NJU. (a prospective graduate student)
 + 🔭 I'm currently working on dingtalk min program for lab performance manage.
 + 🌱 I’m currently learning Go.
-+ 📫 How to reach me: <a href="zhanyeye@qq.com">Email</a>
++ 📫 This is my [blog](https://www.yuque.com/zhanyeye)
 
 <!--
 **zhanyeye/zhanyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
