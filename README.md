@@ -1,4 +1,7 @@
-### Hi there 👋
+### ZhanYeye 👋
+Hi, I'm Zhanyeye -- a prospective graduate student in software engineering at NJU. Previously studied on the NEFU.
+
+
 
 <!--
 **zhanyeye/zhanyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
