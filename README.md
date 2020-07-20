@@ -1,4 +1,3 @@
-### Hi there 👋
 + 📓 I'm currently studying at NJU. (a prospective graduate student)
 + 🔭 I'm currently working on dingtalk min program for lab performance manage.
 + 🌱 I’m currently learning Go.
