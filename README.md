@@ -3,9 +3,10 @@
 + 🌱 I’m currently learning Go.
 + 📫 This is my [blog](https://www.yuque.com/zhanyeye)
 
-[![zhanyeye's github stats](https://github-readme-stats.vercel.app/api?username=zhanyeye)](https://github.com/zhanyeye)
+
 
 <!--
+[![zhanyeye's github stats](https://github-readme-stats.vercel.app/api?username=zhanyeye)](https://github.com/zhanyeye)
 **zhanyeye/zhanyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
