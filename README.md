@@ -1,6 +1,5 @@
 + 📓 I'm currently studying at NJU. 
 + 🔭 I'm currently working on dingtalk min program for lab performance manage.
-+ 🌱 I’m currently learning Go.
 + 📫 This is my [blog](https://www.yuque.com/zhanyeye)
 
 
