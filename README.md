@@ -1,6 +1,5 @@
 ### Hi there, I am Zhanyeye 👋
 
-<a href="https://www.yuque.com/zhanyeye" title="Zhanyeye's Blog" target="_blank" rel="nofollow"><img align="right" alt="Sendya's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/micro-dot-blog.svg" /></a>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=zhanyeye" />
 
 
