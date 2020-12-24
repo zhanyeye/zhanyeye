@@ -23,10 +23,6 @@
 
 <!--
 <img align="right" width="420px" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="Zhanyeye's GitHub Stats">
-
-+ 📓 I'm currently studying at NJU. 
-+ 🔭 I'm currently working on discrete event simulation.
-+ 📫 This is my [blog](https://www.yuque.com/zhanyeye)
 -->
 
 
