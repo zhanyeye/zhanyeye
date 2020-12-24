@@ -7,14 +7,6 @@
 + 🔭 I'm currently working on discrete event simulation.
 + 📫 This is my [blog](https://www.yuque.com/zhanyeye)
 
-<p align="center">
- 😄
-<br/>
-<br/>
-<samp>
- day after day, year after year~🎨<br>
- </samp>
-</p>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
