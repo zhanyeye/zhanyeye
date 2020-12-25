@@ -11,12 +11,10 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Zhanyeye's Github Stars">
+ 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&count_private=true&hide=issues&line_height=24" />
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyeye&layout=compact" />
- </a>
+ 
 </details>
 
 
