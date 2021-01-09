@@ -2,8 +2,8 @@
 
 
 - 📓 I'm currently studying in Nanjing University. 
-- 👨‍💻 I'm currently working on discrete event simulation development in Java
-- 💡 &nbsp;I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye)
+- 👨‍💻 I'm currently working on discrete event simulation development in Java.
+- 💡 &nbsp;I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
 
 
 <details open>
