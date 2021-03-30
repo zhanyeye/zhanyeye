@@ -10,8 +10,8 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
  
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&count_private=true&hide=issues&line_height=24" />
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyeye&layout=compact" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&count_private=true&hide=issues&line_height=24" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyeye&layout=compact" />
  
 </details>
 
