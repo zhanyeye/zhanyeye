@@ -1,7 +1,5 @@
 ### Hi there, I am Zhanyeye 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=zhanyeye" />
 
-
-- 📓 I'm currently studying in Nanjing University. 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 💡 &nbsp;I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
 
