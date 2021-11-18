@@ -4,7 +4,7 @@
 - 💡 &nbsp;I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
 
 
-<details open>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
  
@@ -13,7 +13,7 @@
  
 </details>
 
-![](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg)
 
 <!--
 <img align="right" width="420px" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="Zhanyeye's GitHub Stats">
