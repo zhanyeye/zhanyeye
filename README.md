@@ -13,7 +13,7 @@
  
 </details>
 
-<img align="center" height="180px" src="https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg" />
+<img align="center" height="160px" src="https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg" />
 
 <!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg) -->
 
