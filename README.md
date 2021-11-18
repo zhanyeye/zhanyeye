@@ -14,8 +14,8 @@
 </details>
 
 ![zhanyeye's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhanyeye&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
-
-<img align="center" height="160px" src="https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg" />
+<!-- 
+<img align="center" height="160px" src="https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg" /> -->
 
 <!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg) -->
 
