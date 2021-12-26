@@ -2,7 +2,6 @@
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 💡 &nbsp;I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
-- 🔭 I'm currently studying Nginx. [notebook](https://www.yuque.com/zhanyeye/devops/mufagq)
 
 
 <details>
