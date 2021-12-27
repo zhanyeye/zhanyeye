@@ -1,4 +1,4 @@
-### Hi there, I am Zhanzeye  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> ![GitHub followers](https://img.shields.io/github/followers/zhanyeye?label=Follow&style=social)   <img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" /> 
+### Hi there, I am Zhanzeye  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" /> 
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 🔭 I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
