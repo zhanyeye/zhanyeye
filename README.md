@@ -3,14 +3,14 @@
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 🔭 I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
 
-<details>
+<!-- <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
  
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=zhanyeye&count_private=true&hide=issues&line_height=24" />
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyeye&layout=compact" />
  
-</details>
+</details> -->
 
 ![zhanyeye's github activity graph](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-graph.svg)
 
