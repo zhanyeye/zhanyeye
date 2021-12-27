@@ -3,7 +3,6 @@
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 🔭 I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
 
-
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
@@ -14,14 +13,6 @@
 </details>
 
 ![zhanyeye's github activity graph](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-graph.svg)
-
-<!-- <img align="center" height="160px" src="https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg" /> -->
-<!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-contribution-grid-snake.svg) -->
-
-
-<!--
-[![zhanyeye's github stats](https://github-readme-stats.vercel.app/api?username=zhanyeye)](https://github.com/zhanyeye)
-**zhanyeye/zhanyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
