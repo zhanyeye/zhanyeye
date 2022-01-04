@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 🔭 I share my ideas in my blog : [yuque.com/zhanyeye](https://www.yuque.com/zhanyeye).
-
+- 🎃 My schedule in here : [My schedule](https://github.com/users/zhanyeye/projects/4/views/1)
 <!-- <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
