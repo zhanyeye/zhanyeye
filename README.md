@@ -1,7 +1,7 @@
 ### Hi there, I am Zhanzeye  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" /> 
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
-- 🔭 I share my ideas in my blog : [blog.zhanyeye.com](https://blog.zhanyeye.com/).
+- 🔭 I share my ideas in my blog : [blog.read-me.top](https://blog.read-me.top).
 - 🎃 My schedule in here : [zhanyeye's schedule](https://github.com/users/zhanyeye/projects/4/views/1)
 <!-- <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
