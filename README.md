@@ -1,4 +1,4 @@
-### Hi there, I am Zhanzeye  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> &ensp; <a  href="https://wakatime.com/@5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e"><img  src="https://wakatime.com/badge/user/5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e.svg" alt="Total time coded since Jun 1 2021" /></a> <img  src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" />
+### Hi there, I am Zhanzeye  &ensp; <a  href="https://wakatime.com/@5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e"><img  src="https://wakatime.com/badge/user/5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e.svg" alt="Total time coded since Jun 1 2021" /></a> <img  src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" />
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
 - 🔭 I share my ideas in my blog : [blog.read-me.top](https://blog.read-me.top).
