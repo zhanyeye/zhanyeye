@@ -1,7 +1,7 @@
 ### Hi there, I am Zhanzeye  &ensp; <a  href="https://wakatime.com/@5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e"><img  src="https://wakatime.com/badge/user/5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e.svg" alt="Total time coded since Jun 1 2021" /></a> <img  src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" />
 
 - 👨‍💻 I'm currently working on discrete event simulation development in Java.
-- 🔭 I share my ideas in my blog : [blog.read-me.top](https://blog.read-me.top).
+- 🔭 I share my ideas in my blog : [blog.read-me.fun](https://blog.read-me.fun).
 - 🎃 My schedule in here : [zhanyeye's schedule](https://github.com/users/zhanyeye/projects/4/views/1)
 <!-- <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
