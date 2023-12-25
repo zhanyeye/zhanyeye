@@ -17,7 +17,7 @@ jobs:
       - name: Download github-graph.svg file
         run: |
           mkdir assets 
-          curl -L https://activity-graph-me.herokuapp.com/graph -o ./assets/github-graph.svg
+          curl -L https://github-readme-activity-graph.vercel.app/graph?username=zhanyeye&height=280&bg_color=fffff0&color=708090&area_color=9e4c98&line=9e4c98&point=24292e -o ./assets/github-graph.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
