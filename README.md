@@ -12,7 +12,7 @@
  
 </details> -->
 
-<!-- ![zhanyeye's github activity graph](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-graph.svg) -->
+![zhanyeye's github activity graph](https://raw.githubusercontent.com/zhanyeye/zhanyeye/output/github-graph.svg)
 
 <!-- Here are some ideas to get you started:
 
