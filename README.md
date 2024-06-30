@@ -1,6 +1,6 @@
 ### Hi there, I am Zhanzeye  &ensp; <a  href="https://wakatime.com/@5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e"><img  src="https://wakatime.com/badge/user/5e21ac77-6ea6-4a5d-a8ca-f57ccedd5a0e.svg" alt="Total time coded since Jun 1 2021" /></a> <img  src="https://visitor-badge.laobi.icu//badge?page_id=zhanyeye" />
 
-- 🔭 I share my ideas in my blog : [blog.readme.fun](https://blog.readme.fun).
+- 🔭 I share my ideas in my blog : [blog.readme.fun](https://readme.fun).
 <!-- <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
